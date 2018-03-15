@@ -1,0 +1,9 @@
+Building Solarium
+
+See doc/readme-qt.rst for instructions on building Solarium QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Solarium.
+
+See doc/build-*.txt for instructions on building Solariumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Solarium.
