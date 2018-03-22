@@ -14,11 +14,11 @@ MINIMUM STAKE AGE : 24 Hr
 
 Coin Maturity : 80
 
-MAX SUPPLY : 88,000,000 Coins
+MAX SUPPLY : 21,000,000 Coins
 
-RPC Port: 7117
+RPC Port: 4141
 
-Network Port: 7118
+Network Port: 4848
 
 Find the Compiled Wallets here https://github.com/Solarium/Wallet
 
