@@ -63,8 +63,8 @@ public:
         pchMessageStart[2] = 0xe1;
         pchMessageStart[3] = 0xd6;
         vAlertPubKey = ParseHex("04efa3a230591895a2a274a733989e10bd15f9cf7bfc26fcfc2d72d584378bd208c59f7809220154bd808b53ccbd422e864f359105f277a30026752fd404a0fc76");
-        nDefaultPort = 4141;
-        nRPCPort = 4040;
+        nDefaultPort = 4848;
+        nRPCPort = 4141;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 16);
 
         // Build the genesis block.
