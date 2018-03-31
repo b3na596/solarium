@@ -22,4 +22,4 @@ Network Port: 4848
 
 Find the Compiled Wallets here https://github.com/solariumcoin/wallets
 
-Wallet Masternode Setup Guides https://github.com/solariumcoin/solarium/wiki/wallet
+Wallet Masternode Setup Guides https://github.com/solariumcoin/wallets/blob/wallet/Solarium%20MN%20Setup%20Guide.pdf
